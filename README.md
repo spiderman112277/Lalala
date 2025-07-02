@@ -7,3 +7,4 @@ Cách chỉnh sửa file để tạo commit:
 Nhấn vào file README.md.
 Nhấn nút Commit changes (màu xanh lá cây).
  Như vậy là bạn đã tạo 1 commit hợp lệ.
+Kéo xuống dưới → phần “Commit changes”:
